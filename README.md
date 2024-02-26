@@ -9,6 +9,7 @@ It uses social media marketing to find what platforms and analytics to help find
 
 ## Usage
 
+https://jphanvilay.github.io/Social-Solutions/
 
 The images below should be what is displayed on launch.
 
