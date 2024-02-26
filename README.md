@@ -12,8 +12,8 @@ It uses social media marketing to find what platforms and analytics to help find
 
 The images below should be what is displayed on launch.
 
-![Top-half](./Assets/Screenshot1.jpg)
-![Bottom-half](./Assets/Screenshot2.png)
+![Top-half](./assets/images/Screenshot1.jpg)
+![Bottom-half](./assets/images/Screenshot2.png)
 
 
 
